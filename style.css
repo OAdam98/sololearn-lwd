@@ -1,0 +1,52 @@
+header {
+    color: white;
+    background-color: #284b63;
+    padding: 80px;
+    text-align: center;
+
+
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+.features {
+    background-color: white;
+    color: #000;
+
+}
+
+.quote {
+    background: #549da0;
+    color: white;
+}
+
+footer {
+    background: #353535;
+    padding: 32px 0;
+    text-align: center;
+    color: #868686;
+
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0 0 16px 0;
+
+}
+
+h2 {
+    font-weight: 300;
+    padding: 0 200px;
+    max-width: 900px;
+}
+
+.container {
+    margin: auto;
+    padding: 0 20px;
+    max-width: 900px;
+
+
+}
